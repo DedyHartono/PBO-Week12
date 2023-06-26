@@ -1,1 +1,31 @@
 
+
+ASUS TUF@DESKTOP-DJ244K1 MINGW64 /d/PBO12GUI-main/PBO12/Week-12
+$ git init
+Initialized empty Git repository in D:/PBO12GUI-main/PBO12/Week-12/.git/
+
+ASUS TUF@DESKTOP-DJ244K1 MINGW64 /d/PBO12GUI-main/PBO12/Week-12 (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+ASUS TUF@DESKTOP-DJ244K1 MINGW64 /d/PBO12GUI-main/PBO12/Week-12 (master)
+$ git add .
+warning: LF will be replaced by CRLF in JAVAUI/build.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in JAVAUI/build/classes/penjualan/Barang.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in JAVAUI/manifest.mf.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in JAVAUI/nbproject/jnlp-impl.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in JAVAUI/src/penjualan/Barang.form.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in JAVAUI/src/penjualan/Barang.java.
+The file will have its original line endings in your working directory
+
+ASUS TUF@DESKTOP-DJ244K1 MINGW64 /d/PBO12GUI-main/PBO12/Week-12 (master)
+$
